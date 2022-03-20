@@ -5,7 +5,11 @@ music colorful,make life and work colorful.
 
 音乐，我想让它可视化，普通音乐播放器还都没有实现，大致就是像下图那样，但是我想渲染的更顺滑，这样会更有气氛。
 
-![img](resources/images/289801cd56dfa23f7597bd28f70c7208.jpg)
+<div align="center">
+    <br>
+    <img width="400" src="resources/images/289801cd56dfa23f7597bd28f70c7208.jpg" alt="M3U8-Downloader">
+    <br>
+</div>
 
 ## 实现原理
 
